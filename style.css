@@ -1,0 +1,17 @@
+.mine-menu li{
+    display: inline-block;
+    list-style: none;
+}
+.mine-menu li a{
+    text-decoration: none;
+    padding: 0 20px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #1e3154;
+}
+.mine-menu{
+    margin-bottom: 0;
+}
+.mine-menu li a:hover{
+    color: darkgray;
+}
